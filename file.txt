@@ -1,1 +1,4 @@
 # I'm going to add some words to this page
+
+This is my bio
+I'm a student at ada, It's great!
