@@ -1,3 +1,4 @@
 # Don't push secrets to GitHub!
 secret-secrets.txt
 file.txt
+.super_secret.txt
